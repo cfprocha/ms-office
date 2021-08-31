@@ -1,4 +1,4 @@
-## Solutions here:
+## Essas são as soluções presentes na página:
 
-- **Send Mass Mail from a folder ([mass-msg](https://github.com/cfprocha/codigos/blob/main/VBA/Outlook/mass-msg.md)):**
-  This macro allow you to use a folder to store drafts with many recipients and then send individual messages to each one of them. Sometimes you have to send the same message to a lot of recipients and  you would like to create the impression it was writen individually.  Using this macro you can create a draft inserting all recipients  separated by ";" in its "To" field, insert the subject and body text and them send it individualy to each and every one.
+- **Enviar e-mails em massa de uma pasta ([mass-msg](https://github.com/cfprocha/codigos/blob/main/VBA/Outlook/mass-msg.md)):**
+  Essa macro permite que você utilize uma pasta para armazenar rascunhos de e-mail, com vários destinatários e envie mensagens individuais, para cada um deles. Algumas vezes precisamos enviar o mesmo texto, para muitas pessoas, mas desejamos causar a impressão de que as mensagens foram escritas individualmente. Usando essa macro você poderá criar um rascunho, definindo todos os destinatários separados por ";" no campo "To ou Para", inserir o assunto, o texto do corpo da mensagem e então, enviar ela individualmente, para cada pessoa.
