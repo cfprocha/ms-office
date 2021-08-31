@@ -1,6 +1,6 @@
-## Solutions here:
+## Essas são as soluções presentes na página:
 
-- **Link Shortener ([lnk-sht](https://github.com/cfprocha/codigos/blob/main/VBA/Excel/lnk-sht.md)):**
-  This macro will shortener the hyperlink in the active cell. Sometimes at work you need to compile multiple informations in one  single spreadsheet, and this includes hyperlinks to external data. The  problem is: Hyperlinks dont have the same size, so to make it standard  you need to shorten them, here I will use Bitly to shorten hyperlinks  and make all the same size. 
-- **Create a timer to run a macro ([tmr](https://github.com/cfprocha/codigos/blob/main/VBA/Excel/tmr.md)):**
-  A macro will be run after a certain time. Sometimes you create a macro you want to run several times, after a  specified time interval. When you run "minhaMacro" bellow you will make it run after each 15  minutes, and if you ever need it to stop, simply run "paraTimer". 
+- **Encurtador de links ([lnk-sht](https://github.com/cfprocha/codigos/blob/main/VBA/Excel/lnk-sht.md)):**
+  Esta macro encurtará o link que estiver na célula. Algumas vezes, durante o trabalho, você precisa compilar muitas informações em uma única planilha e isso inclui os links para dados externos. O problema é que esses links não possuem um tamanho padronizado, o que estraga o visual da planilha. A forma de padronizar eles é através do encurtamento, deixando todos com o mesmo tamanho. Essa macro usa o Bitly para encurtar os links, deixando todos do mesmo tamanho. 
+- **Crie um temporizador, para executar uma macro ([tmr](https://github.com/cfprocha/codigos/blob/main/VBA/Excel/tmr.md)):**
+  Uma macro será executada após um certo período de tempo. Algumas vezes criamos macros e desejamos que elas sejam executadas várias vezes, após períodos específicos de tempo. Quando você executa "minhaMacro" descrita abaixo, ela definirá um intervalo de tempo de 15 minutos, entre uma execução e outra. Caso deseje fazer ela parar, basta executar a macro "paraTimer". 
