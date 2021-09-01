@@ -7,7 +7,7 @@
 
 ## Como usar os códigos
 
-1. Cria um botão para disparar a macro (cmdStart) e iniciar a funcionalidade dela, na planilha principal
+1. Crie um botão para disparar a macro (cmdStart) e iniciar a funcionalidade dela, na planilha principal
 2. Acesse Tools (Ferramentas) --> Macro --> Visual Basic Editor (ou pressione Alt + F11)
 3. Na janela do VBE, clique em Insert (Inserir) --> Module (Módulo)
 4. Dê dois cliques no Module1 e cole o código da solução.
