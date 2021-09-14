@@ -4,5 +4,6 @@
 - [Outlook](https://github.com/cfprocha/codigos/tree/main/VBA/Outlook)
 - Word
 - Múltiplos
-    ** Rede Ativa ([rede-ativa](https://github.com/cfprocha/codigos/blob/main/VBA/rede-ativa.bas)):**
+
+    **Rede Ativa ([rede-ativa](https://github.com/cfprocha/codigos/blob/main/VBA/rede-ativa.bas)):**
     A finalidade desse código é verificar se há uma conexão ativa na máquina. Ele deve ser usado antes de qualquer código que desejo buscar algo da internet.
